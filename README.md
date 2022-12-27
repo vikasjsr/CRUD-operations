@@ -1,10 +1,10 @@
 # CRUD-operations
 
 Created CRUD operations using express 
-C - create product
-R - Read product
-U - Update data of existing product
-D - Delete product
+1) C - create product.
+2) R - Read product.
+3) U - Update data of existing product.
+4) D - Delete product.
 
 *---Modules---*
 1.Express
